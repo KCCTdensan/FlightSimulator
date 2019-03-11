@@ -12,3 +12,6 @@ Plugins/UE4GitPlugin-master/Screenshots
 *.suo
 *.xcodeproj
 *.xcworkspace
+Backup/
+Autosaves/
+
